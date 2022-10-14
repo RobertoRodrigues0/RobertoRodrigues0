@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RobertoRodrigues0
-- 👀 I’m interested in  desenvolver.
+- 👀 I’m interested in develop in the area.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on  some project this travel.
+- 🤖 Process automations.
+- 💞️ I'm looking to collaborate on somes project on this trip.
 - 📫 How to reach me  E-mail roberto.crodrigues0@gmail.com
 
 <!---
